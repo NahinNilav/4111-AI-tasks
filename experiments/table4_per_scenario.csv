@@ -1,0 +1,85 @@
+route,profile,algorithm,path_cost,nodes_expanded,runtime_ms,optimality_ratio
+Shahbagh → Karwan Bazar,fastest,BFS,9.591,1184,0.76,1.0
+Shahbagh → Karwan Bazar,fastest,DFS,476.827,6724,9.83,49.715
+Shahbagh → Karwan Bazar,fastest,UCS,9.591,1500,6.48,1.0
+Shahbagh → Karwan Bazar,fastest,IDS,9.591,3066,1.75,1.0
+Shahbagh → Karwan Bazar,fastest,Greedy,9.591,30,0.59,1.0
+Shahbagh → Karwan Bazar,fastest,A*,9.591,35,0.6,1.0
+Shahbagh → Karwan Bazar,fastest,Weighted A*,9.591,31,0.57,1.0
+Shahbagh → Karwan Bazar,safest,BFS,7.403,1184,0.73,1.0
+Shahbagh → Karwan Bazar,safest,DFS,891.237,6724,12.4,120.395
+Shahbagh → Karwan Bazar,safest,UCS,7.403,420,2.75,1.0
+Shahbagh → Karwan Bazar,safest,IDS,7.403,3066,1.74,1.0
+Shahbagh → Karwan Bazar,safest,Greedy,7.403,27,0.57,1.0
+Shahbagh → Karwan Bazar,safest,A*,7.403,27,0.47,1.0
+Shahbagh → Karwan Bazar,safest,Weighted A*,7.403,27,0.49,1.0
+Shahbagh → Karwan Bazar,balanced,BFS,9.401,1184,0.88,1.0
+Shahbagh → Karwan Bazar,balanced,DFS,788.059,6724,9.7,83.828
+Shahbagh → Karwan Bazar,balanced,UCS,9.401,662,3.18,1.0
+Shahbagh → Karwan Bazar,balanced,IDS,9.401,3066,1.75,1.0
+Shahbagh → Karwan Bazar,balanced,Greedy,9.401,30,0.81,1.0
+Shahbagh → Karwan Bazar,balanced,A*,9.401,30,0.6,1.0
+Shahbagh → Karwan Bazar,balanced,Weighted A*,9.401,30,0.62,1.0
+Dhanmondi-27 → Gulshan-1,fastest,BFS,20.508,7879,6.29,1.054
+Dhanmondi-27 → Gulshan-1,fastest,DFS,319.257,8891,9.97,16.402
+Dhanmondi-27 → Gulshan-1,fastest,UCS,19.465,8206,34.7,1.0
+Dhanmondi-27 → Gulshan-1,fastest,IDS,51.386,348811,200.91,2.64
+Dhanmondi-27 → Gulshan-1,fastest,Greedy,31.245,193,3.27,1.605
+Dhanmondi-27 → Gulshan-1,fastest,A*,19.465,258,4.74,1.0
+Dhanmondi-27 → Gulshan-1,fastest,Weighted A*,19.855,242,4.02,1.02
+Dhanmondi-27 → Gulshan-1,safest,BFS,18.431,7879,6.06,1.121
+Dhanmondi-27 → Gulshan-1,safest,DFS,582.933,8891,9.88,35.452
+Dhanmondi-27 → Gulshan-1,safest,UCS,16.443,5412,24.73,1.0
+Dhanmondi-27 → Gulshan-1,safest,IDS,83.715,348811,196.98,5.091
+Dhanmondi-27 → Gulshan-1,safest,Greedy,90.685,719,10.84,5.515
+Dhanmondi-27 → Gulshan-1,safest,A*,16.443,276,4.95,1.0
+Dhanmondi-27 → Gulshan-1,safest,Weighted A*,16.504,404,6.82,1.004
+Dhanmondi-27 → Gulshan-1,balanced,BFS,21.3,7879,5.49,1.043
+Dhanmondi-27 → Gulshan-1,balanced,DFS,521.454,8891,9.4,25.542
+Dhanmondi-27 → Gulshan-1,balanced,UCS,20.416,6688,29.38,1.0
+Dhanmondi-27 → Gulshan-1,balanced,IDS,74.24,348811,194.88,3.636
+Dhanmondi-27 → Gulshan-1,balanced,Greedy,71.967,842,11.54,3.525
+Dhanmondi-27 → Gulshan-1,balanced,A*,20.416,418,7.18,1.0
+Dhanmondi-27 → Gulshan-1,balanced,Weighted A*,20.438,561,9.37,1.001
+Mohammadpur → Ramna,fastest,BFS,13.687,2540,1.58,1.0
+Mohammadpur → Ramna,fastest,DFS,296.758,1956,4.61,21.682
+Mohammadpur → Ramna,fastest,UCS,13.687,3599,15.96,1.0
+Mohammadpur → Ramna,fastest,IDS,46.664,136441,78.8,3.409
+Mohammadpur → Ramna,fastest,Greedy,16.0,65,1.12,1.169
+Mohammadpur → Ramna,fastest,A*,13.687,146,2.73,1.0
+Mohammadpur → Ramna,fastest,Weighted A*,13.687,105,1.72,1.0
+Mohammadpur → Ramna,safest,BFS,16.017,2540,1.55,1.036
+Mohammadpur → Ramna,safest,DFS,619.783,1956,4.43,40.074
+Mohammadpur → Ramna,safest,UCS,15.466,1746,8.32,1.0
+Mohammadpur → Ramna,safest,IDS,77.018,136441,78.78,4.98
+Mohammadpur → Ramna,safest,Greedy,15.466,49,0.92,1.0
+Mohammadpur → Ramna,safest,A*,15.466,49,0.87,1.0
+Mohammadpur → Ramna,safest,Weighted A*,15.466,49,0.96,1.0
+Mohammadpur → Ramna,balanced,BFS,16.724,2540,1.49,1.0
+Mohammadpur → Ramna,balanced,DFS,530.752,1956,4.34,31.737
+Mohammadpur → Ramna,balanced,UCS,16.724,2291,10.57,1.0
+Mohammadpur → Ramna,balanced,IDS,71.078,136441,77.29,4.25
+Mohammadpur → Ramna,balanced,Greedy,16.724,43,0.85,1.0
+Mohammadpur → Ramna,balanced,A*,16.724,43,0.75,1.0
+Mohammadpur → Ramna,balanced,Weighted A*,16.724,43,0.9,1.0
+Mohakhali → Dhanmondi-15,fastest,BFS,9.598,2336,1.38,1.005
+Mohakhali → Dhanmondi-15,fastest,DFS,316.051,3830,5.54,33.103
+Mohakhali → Dhanmondi-15,fastest,UCS,9.548,1970,9.2,1.0
+Mohakhali → Dhanmondi-15,fastest,IDS,19.069,29464,16.46,1.997
+Mohakhali → Dhanmondi-15,fastest,Greedy,12.139,40,0.71,1.271
+Mohakhali → Dhanmondi-15,fastest,A*,9.548,76,1.38,1.0
+Mohakhali → Dhanmondi-15,fastest,Weighted A*,9.548,66,1.27,1.0
+Mohakhali → Dhanmondi-15,safest,BFS,17.103,2336,1.37,1.465
+Mohakhali → Dhanmondi-15,safest,DFS,554.889,3830,5.52,47.538
+Mohakhali → Dhanmondi-15,safest,UCS,11.672,2299,10.75,1.0
+Mohakhali → Dhanmondi-15,safest,IDS,32.991,29464,16.29,2.826
+Mohakhali → Dhanmondi-15,safest,Greedy,20.895,66,1.06,1.79
+Mohakhali → Dhanmondi-15,safest,A*,11.672,115,2.48,1.0
+Mohakhali → Dhanmondi-15,safest,Weighted A*,11.672,84,1.53,1.0
+Mohakhali → Dhanmondi-15,balanced,BFS,14.435,2336,1.54,1.114
+Mohakhali → Dhanmondi-15,balanced,DFS,496.882,3830,5.83,38.346
+Mohakhali → Dhanmondi-15,balanced,UCS,12.958,2425,11.95,1.0
+Mohakhali → Dhanmondi-15,balanced,IDS,28.295,29464,17.5,2.184
+Mohakhali → Dhanmondi-15,balanced,Greedy,18.81,59,1.09,1.452
+Mohakhali → Dhanmondi-15,balanced,A*,12.958,122,2.25,1.0
+Mohakhali → Dhanmondi-15,balanced,Weighted A*,13.986,90,1.49,1.079

@@ -1,0 +1,10 @@
+algorithm,profile,h_old,h_B,h_ALT,h_B_reduction_%,h_ALT_reduction_%,h_ALT_speedup_x
+Greedy,fastest,93.0,93.0,82.0,0.0,11.6,1.1
+Greedy,safest,93.0,93.0,215.0,0.0,-132.1,0.4
+Greedy,balanced,93.0,93.0,244.0,0.0,-162.5,0.4
+A*,fastest,3591.0,3500.0,129.0,2.5,96.4,27.9
+A*,safest,2442.0,2398.0,117.0,1.8,95.2,20.9
+A*,balanced,2970.0,2860.0,153.0,3.7,94.8,19.4
+Weighted A*,fastest,3478.0,3355.0,111.0,3.5,96.8,31.3
+Weighted A*,safest,2428.0,2364.0,141.0,2.6,94.2,17.2
+Weighted A*,balanced,2950.0,2782.0,181.0,5.7,93.9,16.3

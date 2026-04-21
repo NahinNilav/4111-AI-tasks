@@ -1,0 +1,157 @@
+route,character,straight_line_m,profile,algorithm,heuristic,label,found,path_cost,ucs_optimal,optimality_ratio,nodes_expanded,max_frontier,runtime_ms,h_source,h_over_optimal,path_length
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,BFS,none,BFS,True,9.59110792204645,9.59110792204645,1.0,1184,130,0.76,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,DFS,none,DFS,True,476.82664574334683,9.59110792204645,49.71549164276389,6724,1436,9.83,0.0,0.0,1707
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,UCS,none,UCS,True,9.59110792204645,9.59110792204645,1.0,1500,133,6.48,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,IDS,none,IDS,True,9.59110792204645,9.59110792204645,1.0,3066,17,1.75,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Greedy,h_old,Greedy (h_old),True,15.347040730385292,9.59110792204645,1.6001322115360683,78,34,0.37,0.1715,0.0179,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,A*,h_old,A* (h_old),True,9.59110792204645,9.59110792204645,1.0,1409,132,7.85,0.1715,0.0179,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Weighted A*,h_old,Weighted A* (h_old),True,9.59110792204645,9.59110792204645,1.0,1358,129,7.83,0.1715,0.0179,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Greedy,h_B,Greedy (h_B),True,15.347040730385292,9.59110792204645,1.6001322115360683,78,34,31.83,0.2389,0.0249,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,A*,h_B,A* (h_B),True,9.59110792204645,9.59110792204645,1.0,1369,131,36.47,0.2389,0.0249,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Weighted A*,h_B,Weighted A* (h_B),True,9.59110792204645,9.59110792204645,1.0,1307,132,37.14,0.2389,0.0249,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Greedy,h_ALT,Greedy (h_ALT),True,9.59110792204645,9.59110792204645,1.0,30,21,0.59,8.2582,0.861,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,A*,h_ALT,A* (h_ALT),True,9.59110792204645,9.59110792204645,1.0,35,21,0.6,8.2582,0.861,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,fastest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,9.59110792204645,9.59110792204645,1.0,31,20,0.57,8.2582,0.861,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,BFS,none,BFS,True,7.402600278952405,7.402600278952405,1.0,1184,130,0.73,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,DFS,none,DFS,True,891.2366366104852,7.402600278952405,120.39507781400977,6724,1436,12.4,0.0,0.0,1707
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,UCS,none,UCS,True,7.402600278952405,7.402600278952405,1.0,420,119,2.75,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,IDS,none,IDS,True,7.402600278952405,7.402600278952405,1.0,3066,17,1.74,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Greedy,h_old,Greedy (h_old),True,20.565826433688947,7.402600278952405,2.778189508916638,78,34,0.52,0.0245,0.0033,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,A*,h_old,A* (h_old),True,7.402600278952405,7.402600278952405,1.0,418,116,3.04,0.0245,0.0033,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Weighted A*,h_old,Weighted A* (h_old),True,7.402600278952405,7.402600278952405,1.0,417,115,2.65,0.0245,0.0033,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Greedy,h_B,Greedy (h_B),True,20.565826433688947,7.402600278952405,2.778189508916638,78,34,33.11,0.0632,0.0085,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,A*,h_B,A* (h_B),True,7.402600278952405,7.402600278952405,1.0,407,109,32.38,0.0632,0.0085,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Weighted A*,h_B,Weighted A* (h_B),True,7.402600278952405,7.402600278952405,1.0,395,106,32.68,0.0632,0.0085,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Greedy,h_ALT,Greedy (h_ALT),True,7.402600278952405,7.402600278952405,1.0,27,19,0.57,7.4026,1.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,A*,h_ALT,A* (h_ALT),True,7.402600278952405,7.402600278952405,1.0,27,17,0.47,7.4026,1.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,safest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,7.402600278952405,7.402600278952405,1.0,27,17,0.49,7.4026,1.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,BFS,none,BFS,True,9.400886215317433,9.400886215317433,1.0,1184,130,0.88,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,DFS,none,DFS,True,788.0589885271382,9.400886215317433,83.82815943917139,6724,1436,9.7,0.0,0.0,1707
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,UCS,none,UCS,True,9.400886215317433,9.400886215317433,1.0,662,135,3.18,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,IDS,none,IDS,True,9.400886215317433,9.400886215317433,1.0,3066,17,1.75,0.0,0.0,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Greedy,h_old,Greedy (h_old),True,19.977088216777762,9.400886215317433,2.125021807436397,78,34,0.37,0.049,0.0052,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,A*,h_old,A* (h_old),True,9.400886215317433,9.400886215317433,1.0,645,133,4.41,0.049,0.0052,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Weighted A*,h_old,Weighted A* (h_old),True,9.400886215317433,9.400886215317433,1.0,638,133,4.02,0.049,0.0052,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Greedy,h_B,Greedy (h_B),True,19.977088216777762,9.400886215317433,2.125021807436397,78,34,35.33,0.16,0.017,49
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,A*,h_B,A* (h_B),True,9.400886215317433,9.400886215317433,1.0,593,130,35.3,0.16,0.017,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Weighted A*,h_B,Weighted A* (h_B),True,9.400886215317433,9.400886215317433,1.0,563,130,36.07,0.16,0.017,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Greedy,h_ALT,Greedy (h_ALT),True,9.400886215317433,9.400886215317433,1.0,30,21,0.81,9.0616,0.9639,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,A*,h_ALT,A* (h_ALT),True,9.400886215317433,9.400886215317433,1.0,30,19,0.6,9.0616,0.9639,27
+Shahbagh → Karwan Bazar,"Short, nearby neighborhoods",1449.3580107326077,balanced,Weighted A*,h_ALT,Weighted A* (h_ALT),True,9.400886215317433,9.400886215317433,1.0,30,19,0.62,9.0616,0.9639,27
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,BFS,none,BFS,True,20.508110444190695,19.464847966000484,1.0535972579910458,7879,266,6.29,0.0,0.0,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,DFS,none,DFS,True,319.2574288800927,19.464847966000484,16.401742743521243,8891,1583,9.97,0.0,0.0,1142
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,UCS,none,UCS,True,19.464847966000484,19.464847966000484,1.0,8206,224,34.7,0.0,0.0,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,IDS,none,IDS,True,51.38570783862132,19.464847966000484,2.6399234110832737,348811,155,200.91,0.0,0.0,181
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Greedy,h_old,Greedy (h_old),True,24.061847120423593,19.464847966000484,1.2361692812835092,105,77,0.48,0.6575,0.0338,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,A*,h_old,A* (h_old),True,19.464847966000484,19.464847966000484,1.0,8025,225,45.05,0.6575,0.0338,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Weighted A*,h_old,Weighted A* (h_old),True,19.464847966000484,19.464847966000484,1.0,7925,223,44.14,0.6575,0.0338,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Greedy,h_B,Greedy (h_B),True,24.061847120423593,19.464847966000484,1.2361692812835092,105,77,29.15,0.9163,0.0471,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,A*,h_B,A* (h_B),True,19.464847966000484,19.464847966000484,1.0,7946,224,71.37,0.9163,0.0471,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Weighted A*,h_B,Weighted A* (h_B),True,19.464847966000484,19.464847966000484,1.0,7782,228,71.19,0.9163,0.0471,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Greedy,h_ALT,Greedy (h_ALT),True,31.244695781020877,19.464847966000484,1.605185708904401,193,92,3.27,18.5997,0.9556,107
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,A*,h_ALT,A* (h_ALT),True,19.464847966000484,19.464847966000484,1.0,258,88,4.74,18.5997,0.9556,72
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,fastest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,19.855460883936193,19.464847966000484,1.0200676069300925,242,84,4.02,18.5997,0.9556,71
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,BFS,none,BFS,True,18.43129798727337,16.44298223021934,1.120921845515338,7879,266,6.06,0.0,0.0,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,DFS,none,DFS,True,582.9328114274372,16.44298223021934,35.451769226880764,8891,1583,9.88,0.0,0.0,1142
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,UCS,none,UCS,True,16.44298223021934,16.44298223021934,1.0,5412,443,24.73,0.0,0.0,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,IDS,none,IDS,True,83.7153014826914,16.44298223021934,5.091248066232003,348811,155,196.98,0.0,0.0,181
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Greedy,h_old,Greedy (h_old),True,27.165242142005926,16.44298223021934,1.6520873015407715,105,77,0.49,0.0939,0.0057,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,A*,h_old,A* (h_old),True,16.44298223021934,16.44298223021934,1.0,5367,444,31.79,0.0939,0.0057,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Weighted A*,h_old,Weighted A* (h_old),True,16.44298223021934,16.44298223021934,1.0,5351,446,31.61,0.0939,0.0057,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Greedy,h_B,Greedy (h_B),True,27.165242142005926,16.44298223021934,1.6520873015407715,105,77,29.35,0.2424,0.0147,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,A*,h_B,A* (h_B),True,16.44298223021934,16.44298223021934,1.0,5301,444,60.36,0.2424,0.0147,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Weighted A*,h_B,Weighted A* (h_B),True,16.44298223021934,16.44298223021934,1.0,5253,448,59.89,0.2424,0.0147,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Greedy,h_ALT,Greedy (h_ALT),True,90.6847864697792,16.44298223021934,5.5151057879948535,719,209,10.84,12.6135,0.7671,171
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,A*,h_ALT,A* (h_ALT),True,16.44298223021934,16.44298223021934,1.0,276,132,4.95,12.6135,0.7671,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,safest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,16.504419375481223,16.44298223021934,1.003736374849872,404,154,6.82,12.6135,0.7671,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,BFS,none,BFS,True,21.299615439992348,20.41584569614864,1.0432884219932377,7879,266,5.49,0.0,0.0,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,DFS,none,DFS,True,521.4543888935962,20.41584569614864,25.541650179691857,8891,1583,9.4,0.0,0.0,1142
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,UCS,none,UCS,True,20.41584569614864,20.41584569614864,1.0,6688,338,29.38,0.0,0.0,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,IDS,none,IDS,True,74.24032133010482,20.41584569614864,3.6364068594087158,348811,155,194.88,0.0,0.0,181
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Greedy,h_old,Greedy (h_old),True,28.451992345622486,20.41584569614864,1.3936230107278793,105,77,0.49,0.1879,0.0092,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,A*,h_old,A* (h_old),True,20.41584569614864,20.41584569614864,1.0,6630,342,37.89,0.1879,0.0092,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Weighted A*,h_old,Weighted A* (h_old),True,20.41584569614864,20.41584569614864,1.0,6601,344,37.86,0.1879,0.0092,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Greedy,h_B,Greedy (h_B),True,28.451992345622486,20.41584569614864,1.3936230107278793,105,77,29.13,0.6134,0.03,78
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,A*,h_B,A* (h_B),True,20.41584569614864,20.41584569614864,1.0,6488,345,65.17,0.6134,0.03,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Weighted A*,h_B,Weighted A* (h_B),True,20.41584569614864,20.41584569614864,1.0,6369,353,65.95,0.6134,0.03,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Greedy,h_ALT,Greedy (h_ALT),True,71.96692151557625,20.41584569614864,3.525052186750828,842,150,11.54,17.6979,0.8669,154
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,A*,h_ALT,A* (h_ALT),True,20.41584569614864,20.41584569614864,1.0,418,161,7.18,17.6979,0.8669,64
+Dhanmondi-27 → Gulshan-1,"Medium, cross-city diagonal",5557.978683044755,balanced,Weighted A*,h_ALT,Weighted A* (h_ALT),True,20.43807136579882,20.41584569614864,1.001088648003172,561,160,9.37,17.6979,0.8669,64
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,BFS,none,BFS,True,13.687021144934844,13.687021144934844,1.0,2540,184,1.58,0.0,0.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,DFS,none,DFS,True,296.7583560966601,13.687021144934844,21.681734319997123,1956,788,4.61,0.0,0.0,1123
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,UCS,none,UCS,True,13.687021144934844,13.687021144934844,1.0,3599,249,15.96,0.0,0.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,IDS,none,IDS,True,46.663569989490625,13.687021144934844,3.409329867716279,136441,118,78.8,0.0,0.0,157
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Greedy,h_old,Greedy (h_old),True,25.257418551811583,13.687021144934844,1.8453554125733629,87,75,0.46,0.6511,0.0476,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,A*,h_old,A* (h_old),True,13.687021144934844,13.687021144934844,1.0,3110,236,17.92,0.6511,0.0476,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Weighted A*,h_old,Weighted A* (h_old),True,13.687021144934844,13.687021144934844,1.0,2892,220,16.74,0.6511,0.0476,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Greedy,h_B,Greedy (h_B),True,25.257418551811583,13.687021144934844,1.8453554125733629,87,75,29.09,0.9073,0.0663,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,A*,h_B,A* (h_B),True,13.687021144934844,13.687021144934844,1.0,2931,219,45.11,0.9073,0.0663,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Weighted A*,h_B,Weighted A* (h_B),True,13.687021144934844,13.687021144934844,1.0,2695,179,43.89,0.9073,0.0663,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Greedy,h_ALT,Greedy (h_ALT),True,16.000240003852095,13.687021144934844,1.1690082037882512,65,49,1.12,12.3409,0.9016,50
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,A*,h_ALT,A* (h_ALT),True,13.687021144934844,13.687021144934844,1.0,146,71,2.73,12.3409,0.9016,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,fastest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,13.687021144934844,13.687021144934844,1.0,105,59,1.72,12.3409,0.9016,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,BFS,none,BFS,True,16.016936820548537,15.46603899599369,1.0356198393588398,2540,184,1.55,0.0,0.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,DFS,none,DFS,True,619.7834834245706,15.46603899599369,40.07383426261364,1956,788,4.43,0.0,0.0,1123
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,UCS,none,UCS,True,15.46603899599369,15.46603899599369,1.0,1746,282,8.32,0.0,0.0,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,IDS,none,IDS,True,77.01759059003314,15.46603899599369,4.979787689012275,136441,118,78.78,0.0,0.0,157
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Greedy,h_old,Greedy (h_old),True,35.091801200107405,15.46603899599369,2.2689585361318145,87,75,0.44,0.093,0.006,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,A*,h_old,A* (h_old),True,15.46603899599369,15.46603899599369,1.0,1712,279,10.42,0.093,0.006,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Weighted A*,h_old,Weighted A* (h_old),True,15.46603899599369,15.46603899599369,1.0,1687,277,10.43,0.093,0.006,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Greedy,h_B,Greedy (h_B),True,35.091801200107405,15.46603899599369,2.2689585361318145,87,75,29.33,0.24,0.0155,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,A*,h_B,A* (h_B),True,15.46603899599369,15.46603899599369,1.0,1658,277,38.73,0.24,0.0155,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Weighted A*,h_B,Weighted A* (h_B),True,15.46603899599369,15.46603899599369,1.0,1625,270,38.63,0.24,0.0155,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Greedy,h_ALT,Greedy (h_ALT),True,15.46603899599369,15.46603899599369,1.0,49,43,0.92,15.466,1.0,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,A*,h_ALT,A* (h_ALT),True,15.46603899599369,15.46603899599369,1.0,49,39,0.87,15.466,1.0,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,safest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,15.46603899599369,15.46603899599369,1.0,49,39,0.96,15.466,1.0,49
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,BFS,none,BFS,True,16.723527438964478,16.723527438964478,1.0,2540,184,1.49,0.0,0.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,DFS,none,DFS,True,530.7520413587562,16.723527438964478,31.736847581697774,1956,788,4.34,0.0,0.0,1123
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,UCS,none,UCS,True,16.723527438964478,16.723527438964478,1.0,2291,241,10.57,0.0,0.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,IDS,none,IDS,True,71.07766983148396,16.723527438964478,4.25016014658957,136441,118,77.29,0.0,0.0,157
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Greedy,h_old,Greedy (h_old),True,34.41278055373206,16.723527438964478,2.057746529811231,87,75,0.46,0.186,0.0111,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,A*,h_old,A* (h_old),True,16.723527438964478,16.723527438964478,1.0,2218,242,13.3,0.186,0.0111,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Weighted A*,h_old,Weighted A* (h_old),True,16.723527438964478,16.723527438964478,1.0,2191,237,12.94,0.186,0.0111,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Greedy,h_B,Greedy (h_B),True,34.41278055373206,16.723527438964478,2.057746529811231,87,75,30.28,0.6074,0.0363,83
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,A*,h_B,A* (h_B),True,16.723527438964478,16.723527438964478,1.0,2070,226,41.27,0.6074,0.0363,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Weighted A*,h_B,Weighted A* (h_B),True,16.723527438964478,16.723527438964478,1.0,1984,209,41.51,0.6074,0.0363,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Greedy,h_ALT,Greedy (h_ALT),True,16.723527438964478,16.723527438964478,1.0,43,32,0.85,16.7235,1.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,A*,h_ALT,A* (h_ALT),True,16.723527438964478,16.723527438964478,1.0,43,31,0.75,16.7235,1.0,43
+Mohammadpur → Ramna,"West-east, through core",5503.543502138818,balanced,Weighted A*,h_ALT,Weighted A* (h_ALT),True,16.723527438964478,16.723527438964478,1.0,43,31,0.9,16.7235,1.0,43
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,BFS,none,BFS,True,9.598393125265563,9.547626298686378,1.0053172196932518,2336,189,1.38,0.0,0.0,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,DFS,none,DFS,True,316.051370645356,9.547626298686378,33.102612184228484,3830,879,5.54,0.0,0.0,1109
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,UCS,none,UCS,True,9.547626298686378,9.547626298686378,1.0,1970,126,9.2,0.0,0.0,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,IDS,none,IDS,True,19.06903629994492,9.547626298686378,1.9972541554719792,29464,54,16.46,0.0,0.0,68
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Greedy,h_old,Greedy (h_old),True,21.068396459433263,9.547626298686378,2.206663289945898,101,76,0.48,0.4821,0.0505,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,A*,h_old,A* (h_old),True,9.547626298686378,9.547626298686378,1.0,1821,124,10.19,0.4821,0.0505,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Weighted A*,h_old,Weighted A* (h_old),True,9.547626298686378,9.547626298686378,1.0,1736,129,9.9,0.4821,0.0505,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Greedy,h_B,Greedy (h_B),True,21.068396459433263,9.547626298686378,2.206663289945898,101,76,29.17,0.6718,0.0704,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,A*,h_B,A* (h_B),True,9.547626298686378,9.547626298686378,1.0,1753,128,38.56,0.6718,0.0704,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Weighted A*,h_B,Weighted A* (h_B),True,9.547626298686378,9.547626298686378,1.0,1635,131,37.93,0.6718,0.0704,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Greedy,h_ALT,Greedy (h_ALT),True,12.138963799924394,9.547626298686378,1.271411701733084,40,30,0.71,8.3157,0.871,38
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,A*,h_ALT,A* (h_ALT),True,9.547626298686378,9.547626298686378,1.0,76,46,1.38,8.3157,0.871,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,fastest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,9.547626298686378,9.547626298686378,1.0,66,47,1.27,8.3157,0.871,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,BFS,none,BFS,True,17.103484847414418,11.67248302107292,1.4652824781613851,2336,189,1.37,0.0,0.0,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,DFS,none,DFS,True,554.8889231561677,11.67248302107292,47.53820777930445,3830,879,5.52,0.0,0.0,1109
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,UCS,none,UCS,True,11.67248302107292,11.67248302107292,1.0,2299,317,10.75,0.0,0.0,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,IDS,none,IDS,True,32.99073612665599,11.67248302107292,2.8263683114463443,29464,54,16.29,0.0,0.0,68
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Greedy,h_old,Greedy (h_old),True,43.099399253295694,11.67248302107292,3.6923933986869963,101,76,0.48,0.0689,0.0059,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,A*,h_old,A* (h_old),True,11.67248302107292,11.67248302107292,1.0,2270,321,14.41,0.0689,0.0059,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Weighted A*,h_old,Weighted A* (h_old),True,11.67248302107292,11.67248302107292,1.0,2256,321,14.27,0.0689,0.0059,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Greedy,h_B,Greedy (h_B),True,43.099399253295694,11.67248302107292,3.6923933986869963,101,76,29.09,0.1777,0.0152,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,A*,h_B,A* (h_B),True,11.67248302107292,11.67248302107292,1.0,2226,329,42.24,0.1777,0.0152,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Weighted A*,h_B,Weighted A* (h_B),True,11.67248302107292,11.67248302107292,1.0,2185,328,42.78,0.1777,0.0152,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Greedy,h_ALT,Greedy (h_ALT),True,20.894904704754357,11.67248302107292,1.7900993873395863,66,39,1.06,8.3558,0.7159,45
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,A*,h_ALT,A* (h_ALT),True,11.67248302107292,11.67248302107292,1.0,115,64,2.48,8.3558,0.7159,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,safest,Weighted A*,h_ALT,Weighted A* (h_ALT),True,11.67248302107292,11.67248302107292,1.0,84,47,1.53,8.3558,0.7159,40
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,BFS,none,BFS,True,14.435410908424812,12.95774298400852,1.1140374466633518,2336,189,1.54,0.0,0.0,35
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,DFS,none,DFS,True,496.88181111062386,12.95774298400852,38.34632402601582,3830,879,5.83,0.0,0.0,1109
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,UCS,none,UCS,True,12.95774298400852,12.95774298400852,1.0,2425,212,11.95,0.0,0.0,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,IDS,none,IDS,True,28.295138396400613,12.95774298400852,2.183647139113684,29464,54,17.5,0.0,0.0,68
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Greedy,h_old,Greedy (h_old),True,36.36776970913308,12.95774298400852,2.806643854104489,101,76,0.51,0.1377,0.0106,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,A*,h_old,A* (h_old),True,12.95774298400852,12.95774298400852,1.0,2386,206,15.3,0.1377,0.0106,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Weighted A*,h_old,Weighted A* (h_old),True,12.95774298400852,12.95774298400852,1.0,2368,208,14.87,0.1377,0.0106,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Greedy,h_B,Greedy (h_B),True,36.36776970913308,12.95774298400852,2.806643854104489,101,76,31.23,0.4498,0.0347,82
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,A*,h_B,A* (h_B),True,12.95774298400852,12.95774298400852,1.0,2287,209,45.1,0.4498,0.0347,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Weighted A*,h_B,Weighted A* (h_B),True,12.95774298400852,12.95774298400852,1.0,2214,211,42.12,0.4498,0.0347,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Greedy,h_ALT,Greedy (h_ALT),True,18.8101281394914,12.95774298400852,1.4516515849022054,59,49,1.09,10.078,0.7778,46
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,A*,h_ALT,A* (h_ALT),True,12.95774298400852,12.95774298400852,1.0,122,55,2.25,10.078,0.7778,36
+Mohakhali → Dhanmondi-15,"Medium, diagonal",4075.0077401310805,balanced,Weighted A*,h_ALT,Weighted A* (h_ALT),True,13.985744731867763,12.95774298400852,1.0793349388954485,90,43,1.49,10.078,0.7778,35

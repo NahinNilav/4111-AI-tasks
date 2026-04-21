@@ -1,0 +1,10 @@
+profile,heuristic,avg_h_source,avg_h_over_optimal
+fastest,h_old,0.4906,0.0375
+fastest,h_B,0.6836,0.0522
+fastest,h_ALT,11.8786,0.8973
+safest,h_old,0.0701,0.0052
+safest,h_B,0.1808,0.0135
+safest,h_ALT,10.9595,0.8708
+balanced,h_old,0.1402,0.009
+balanced,h_B,0.4576,0.0295
+balanced,h_ALT,13.3902,0.9022
